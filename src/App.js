@@ -2,7 +2,6 @@ import "primereact/resources/themes/saga-blue/theme.css"; // This imports theme.
 import "primereact/resources/primereact.min.css"; // This imports primereact main css
 import "primeflex/primeflex.css";
 import "primeicons/primeicons.css";
-import 'rsuite/dist/rsuite.min.css';
 
 import Home from "./pages/Home";
 
