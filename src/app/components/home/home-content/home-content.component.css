@@ -1,0 +1,8 @@
+.functionality-box {
+  height: 50px;
+  width: 220px;
+  padding: 5% 5% 5% 17%;
+  color: white;
+  border: 2px solid gray;
+  border-radius: 5px;
+}

@@ -1,0 +1,16 @@
+:host ::ng-deep .home-menu .p-menu {
+  width: 3.5vw;
+  height: 100%;
+}
+
+:host
+  ::ng-deep
+  .home-menu
+  .p-menu
+  .p-menuitem
+  > .p-menuitem-content
+  .p-menuitem-link
+  .p-menuitem-icon {
+  font-size: 2rem;
+  padding-top: 35px;
+}
